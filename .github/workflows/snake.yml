@@ -12,6 +12,8 @@ jobs:
 
     permissions:
       contents: write
+      pages: write
+      id-token: write
 
     steps:
       - uses: Platane/snk@v3
