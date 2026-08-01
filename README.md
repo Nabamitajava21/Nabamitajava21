@@ -1,5 +1,3 @@
-# Hi, I'm Nabamita 👋
+## 🐍 Contribution Snake
 
-## My GitHub Contribution Snake 🐍
-
-![snake animation](https://raw.githubusercontent.com/Nabamitajava21/Nabamitajava21/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Nabamitajava21/Nabamitajava21/gh-pages/github-contribution-grid-snake.svg)
